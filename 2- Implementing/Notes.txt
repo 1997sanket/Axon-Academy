@@ -1,0 +1,2 @@
+1. Make the command class Immutable
+2. Use CompletableFuture(preferred) solution to handle exception cases as well.
